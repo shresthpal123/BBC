@@ -1,0 +1,1 @@
+print "My 1st GIT commit"
